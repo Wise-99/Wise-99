@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D00F7&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B+My+name+is+Yerin+Kim.)](https://git.io/typing-svg)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wise-99)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wise-99&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wise-99&theme=tokyonight&show_icons=true" width="42%" />
+</a>
