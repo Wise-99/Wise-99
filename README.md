@@ -9,6 +9,7 @@
   <h3>Languages and Tools:</h3>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-#FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-#4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Android Studio-#3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
