@@ -20,9 +20,9 @@
 
 <div align="center">
   
-   <a href="s">
+   <!-- <a href="s">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wise-99&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
-  </a>
+  </a>-->
   
   <a href="s">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wise-99&theme=transparent&show_icons=true" width="42%" />
