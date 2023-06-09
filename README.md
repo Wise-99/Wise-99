@@ -18,9 +18,11 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
   
 </div>
+
 <div align="center">
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerenkim)](https://solved.ac/yerenkim/)
 </div>
+
 <div align="center">
    <a href="s">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wise-99&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
