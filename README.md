@@ -5,7 +5,6 @@
 </div>
 
 <div align="center">
-  
   <h3>Languages and Tools:</h3>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
@@ -19,9 +18,9 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
   
 </div>
-
+<div align="center">
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerenkim)](https://solved.ac/yerenkim/)
-
+</div>
 <div align="center">
    <a href="s">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wise-99&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
