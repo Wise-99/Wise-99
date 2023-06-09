@@ -21,9 +21,7 @@
 </div>
 
 <div align="center">
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerenkim)](https://solved.ac/yerenkim)
-</div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerenkim)](https://solved.ac/yerenkim/)
 
 <div align="center">
    <a href="s">
