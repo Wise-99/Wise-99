@@ -8,7 +8,6 @@
   <h3>Languages and Tools:</h3>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
@@ -25,10 +24,9 @@
 </div>
 
 <div align="center">
-   <a href="s">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wise-99&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
   
-  <a href="s">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wise-99&theme=transparent&show_icons=true" width="42%" />
-  </a>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wise-99&hide=css,python)](https://github.com/Wise-99/github-readme-stats)
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wise-99)](https://github.com/Wise-99/github-readme-stats)
+  
 </div>
