@@ -25,8 +25,6 @@
 
 <div align="center">
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wise-99&hide=css,python)](https://github.com/Wise-99/github-readme-stats)
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wise-99)](https://github.com/Wise-99/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wise-99&hide=css,python)](https://github.com/Wise-99/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wise-99)](https://github.com/Wise-99/github-readme-stats)
   
 </div>
