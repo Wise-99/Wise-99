@@ -19,6 +19,8 @@
   
 </div>
 
+<a href="https://wise-99.tistory.com/" target="_blank"><img src="https://camo.githubusercontent.com/b441dc881bfd1dada50a9322ada5f4a15a44d09f35430f64f612a891dab6963b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546973746f72792d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d546973746f7279266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&amp;logo=Tistory&amp;logoColor=white" style="max-width: 100%;"></a>
+
 <div align="center">
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerenkim)](https://solved.ac/yerenkim/)
