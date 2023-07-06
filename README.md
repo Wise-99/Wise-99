@@ -20,6 +20,12 @@
 </div>
 
 <div align="center">
+  <h3>Blog</h3>
+  <img src="https://wise-99.tistory.com/badge/Tistory-#000000?style=for-the-badge&logo=Tistory&logoColor=white">
+  
+</div>
+
+<div align="center">
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerenkim)](https://solved.ac/yerenkim/)
 </div>
